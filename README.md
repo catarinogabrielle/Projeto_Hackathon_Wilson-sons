@@ -16,7 +16,12 @@ Yarn add
 depois rodar  react-native run-android
 Time
 
-•	Gabrielle De Castro Santos Catarino
+•	Gabrielle De Castro Santos 
+
 •	Rafael Neves Pessoa 
-•	Augusto Mota
+
+•	Augusto 
+
 •	Ediely F. Casagrande
+
+
