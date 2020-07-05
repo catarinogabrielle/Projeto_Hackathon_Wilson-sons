@@ -14,6 +14,7 @@ Yarn add
 # instalar via yarn
 
 depois rodar  react-native run-android
+
 Time
 
 •	Gabrielle De Castro Santos 
